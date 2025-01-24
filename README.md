@@ -1,5 +1,8 @@
 # BS2022(NYCU-IST)
 Biostatistics (2022) at National Yang Ming Chiao Tung University (NYCU) IST (生物統計, 陽明交大統計所). 
+## Members
+- **Chi-Yu Chen**: 陽明交通大學醫學系學生 ([Homepage](https://altis5526.github.io/))
+- **Chia-Yu Liang**: 陽明交通大學數據所學生 ([Homepage](https://chiachii.github.io/))
 
 ## Overview
 This project aims to predict in-hospital mortality for ICU-admitted heart failure patients using the MIMIC-III dataset. We employed survival analysis and categorical data analysis to identify key factors influencing patient outcomes. The dataset contains information on 1177 ICU patients, including demographic, clinical, and laboratory features. Various statistical models, including Cox regression and generalized linear models (GLMs), were applied to discover potential relationships and interactions between the variables and patient mortality.
